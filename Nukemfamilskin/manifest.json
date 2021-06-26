@@ -1,0 +1,23 @@
+{
+  "header" : {
+    "name" : "Nukem famili",
+    "version" : [
+      1,
+      0,
+      0
+    ],
+    "uuid" : "5EB001A3-2B78-4EF4-9FFE-BBAF51882CAD"
+  },
+  "modules" : [
+    {
+      "type" : "skin_pack",
+      "version" : [
+        1,
+        0,
+        0
+      ],
+      "uuid" : "C716BC52-6B49-400E-A0E7-BA6F1E48E60B"
+    }
+  ],
+  "format_version" : 1
+}
